@@ -9,22 +9,22 @@
 _The purpose of this page is to inform the public._
 
 
-_{You don't need anything else!}_
+_You don't need anything else!_
 
 ## Known Bugs
 
-_{No bugs!}_
+_No bugs!_
 
 ## Support and contact details
 
-_{If you run into any issues, seek help from someone else. Tough luck kid!}_
+_If you run into any issues, seek help from someone else. Tough luck kid!_
 
 ## Technologies Used
 
-_{Our team used everything imaginable within our reach to make this fabulous webpage, which was html?}_
+_Our team used everything imaginable within our reach to make this fabulous webpage, which was html?_
 
 ### License
 
-*{Free for everyone...and world peace}*
+*Free for everyone...and world peace*
 
-Copyright (c) 2015 **_{Company Awesome}_**
+Copyright (c) 2015 **_Company Awesome_**
